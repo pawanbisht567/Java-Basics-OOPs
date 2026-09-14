@@ -37,3 +37,6 @@ Here’s the Java primitive data type size table you should memorize for intervi
 | `double`  |     64 bits (8 bytes) | ~15–16 decimal digits precision | `0.0d`        |
 | `char`    |     16 bits (2 bytes) | 0 to 65,535 (UTF-16 code unit)  | `'\u0000'`    |
 | `boolean` | Not specified by Java | `true` / `false`                | `false`       |
+
+#Array
+Arrays are also an object because we create them using the 'new' Keyword
