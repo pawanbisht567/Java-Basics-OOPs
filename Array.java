@@ -47,5 +47,12 @@ class Array {
             }
             System.out.println();
         }
+
+        for (int n[] : jaggedArray) { // Short syntax to access 2D array
+            for (int m : n) {
+                System.out.print(m + " ");
+            }
+            System.out.println("");
+        }
     }
 }
